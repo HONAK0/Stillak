@@ -1,10 +1,4 @@
-import os
-import re
-import json
-import psutil
-import sys
-import getpass
-import socket
+import os, re, json, psutil, sys, getpass, socket
 import http.client
 
 from urllib.request import Request, urlopen
